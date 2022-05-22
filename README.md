@@ -1,10 +1,6 @@
 # BloodPressure_machine
 
-ECE-UY 3144/4144 Introduction to Embedded Systems Design
-
-Professor Matthew S. Campisi
-
-Final Project "The Pressure is On"
+<br>"The Pressure is On"<\br>
 
 
 A Note on Case Development
