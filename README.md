@@ -6,11 +6,10 @@ A Note on Case Development
 
 1. Agenda
 
-The case was developed as an extension to the main "The Pressure is On" project agenda
-to satisfy the three-person workload requirement. We rapid-prototyped a 3D-printable box
-case that would hold the Adafruit Circuit Playground Classic microcontroller, the
-Honeywell MPRLS0300YG00001BB  pressure sensor, and cables and other electrical components
-required to transform the blood pressure sensing device into a prototype of a robust,
+The case was developed as an extension to the main "The Pressure is On" project agenda.
+I rapid-prototyped a 3D-printable boxcase that would hold the Adafruit Circuit Playground 
+Classic microcontroller, theHoneywell MPRLS0300YG00001BB  pressure sensor, and cables and other 
+electrical components required to transform the blood pressure sensing device into a prototype of a robust,
 portable solution. In the design's final iteration, the case holds all the wiring needed
 for the device's operation, and only needs the user to connect a USB cable to the exposed
 USB port on the Playground microcontroller.
