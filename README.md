@@ -1,6 +1,8 @@
 # Blood Pressure Machine
 
-
+This is a C application created for the Adafruit Playground Classic that makes use of the Arduino framework. A dynamic, 
+interactive software that uses data from a Honeywell pressure sensor to detect the user's heart rate, as well as systolic 
+and diastolic blood pressure.
 
 A Note on Case Development
 
@@ -8,7 +10,7 @@ A Note on Case Development
 
 The case was developed as an extension to the main "The Pressure is On" project agenda.
 I rapid-prototyped a 3D-printable boxcase that would hold the Adafruit Circuit Playground 
-Classic microcontroller, theHoneywell MPRLS0300YG00001BB  pressure sensor, and cables and other 
+Classic microcontroller, the Honeywell MPRLS0300YG00001BB  pressure sensor, and cables and other 
 electrical components required to transform the blood pressure sensing device into a prototype of a robust,
 portable solution. In the design's final iteration, the case holds all the wiring needed
 for the device's operation, and only needs the user to connect a USB cable to the exposed
