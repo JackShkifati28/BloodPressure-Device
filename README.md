@@ -4,7 +4,6 @@ This is a C application created for the Adafruit Playground Classic that makes u
 interactive software that uses data from a Honeywell pressure sensor to detect the user's heart rate, as well as systolic 
 and diastolic blood pressure.
 
-<!-- ![Insert Figure 2 image here] (https://raw.githubusercontent.com/JackShkifati28/BloodPressure_machine/main/images/FullSet3.jpg) -->
 ![My Image](https://raw.githubusercontent.com/JackShkifati28/BloodPressure_machine/main/images/FullSet3.jpg)
 
 ## **Project Development**
@@ -33,8 +32,8 @@ To operate the machine, follow the steps below:
    ![Insert Figure 2 image here](url-to-image)
 
 3. Slowly inflate the cuff and listen for when the pulse disappears. This is your cue to stop inflating the cuff. At this point, a blinking pink light would begin flashing.
-
-   ![Insert image of blinking pink light here](url-to-image)
+   ![My Image](https://raw.githubusercontent.com/JackShkifati28/BloodPressure_machine/main/images/CutOffPoint.jpg)
+<!--    ![Insert image of blinking pink light here](url-to-image) -->
 
 4. Calibration will take place. The machine uses Neo pixels to inform the user when the brachial artery's circulation is cut off, and ensures that the cuff deflation rate remains at the recommended 2-3mmhg per second, as per the American Hospital Association (AHA).
 
