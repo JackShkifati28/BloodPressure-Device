@@ -32,16 +32,17 @@ To operate the machine, follow the steps below:
    ![Insert Figure 2 image here](url-to-image)
 
 3. Slowly inflate the cuff and listen for when the pulse disappears. This is your cue to stop inflating the cuff. At this point, a blinking pink light would begin flashing.
-   ![My Image](https://raw.githubusercontent.com/JackShkifati28/BloodPressure_machine/main/images/CutOffPoint.jpg)
-<!--    ![Insert image of blinking pink light here](url-to-image) -->
+
+   ![My Image](https://raw.githubusercontent.com/JackShkifati28/BloodPressure_machine/main/images/HighDeflationRate.jpg)
+
 
 4. Calibration will take place. The machine uses Neo pixels to inform the user when the brachial artery's circulation is cut off, and ensures that the cuff deflation rate remains at the recommended 2-3mmhg per second, as per the American Hospital Association (AHA).
-
-   ![Insert image of Neo pixels calibration here](url-to-image)
+  
+  ![My Image](https://raw.githubusercontent.com/JackShkifati28/BloodPressure_machine/main/images/4mmHg_DeflationRate.jpg)
 
 5. When the measurement is complete, a white light from the LEDs will begin to flicker.
-
-   ![Insert image of flickering white light here](url-to-image)
+  
+  ![My Image](https://raw.githubusercontent.com/JackShkifati28/BloodPressure_machine/main/images/CutOffPoint.jpg)
 
 6. Finally, the results – heart rate, systolic and diastolic blood pressure – are displayed on the screen.
 
