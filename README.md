@@ -45,7 +45,4 @@ To operate the machine, follow the steps below:
 
 6. Finally, the results – heart rate, systolic and diastolic blood pressure – are displayed on the screen.
 
-Please note that the placeholders `[Insert Figure 2 image here]`, `[Insert image of blinking pink light here]`, `[Insert image of Neo pixels calibration here]`, and `[Insert image of flickering white light here]` are placeholders for images. You'll need to replace `url-to-image` with the actual URLs of your images for them to display properly.
-
-
 
