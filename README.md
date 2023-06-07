@@ -27,10 +27,7 @@ ___
 To operate the machine, follow the steps below:
 
 1. Rest the patient's arm on a level surface in line with their heart.
-2. Position the stethoscope over the brachial artery, found in the bend of the elbow, and listen for the pulse (see Figure ​2 below).
-
-   ![Insert Figure 2 image here](url-to-image)
-
+2. Position the stethoscope over the brachial artery, found in the bend of the elbow, and listen for the pulse
 3. Slowly inflate the cuff and listen for when the pulse disappears. This is your cue to stop inflating the cuff. At this point, a blinking pink light would begin flashing.
 
    ![My Image](https://raw.githubusercontent.com/JackShkifati28/BloodPressure_machine/main/images/HighDeflationRate.jpg)
