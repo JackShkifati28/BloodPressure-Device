@@ -4,7 +4,7 @@ This is a C application created for the Adafruit Playground Classic that makes u
 interactive software that uses data from a Honeywell pressure sensor to detect the user's heart rate, as well as systolic 
 and diastolic blood pressure.
 
-![Insert Figure 2 image here](url-to-image)
+![Insert Figure 2 image here] (https://raw.githubusercontent.com/JackShkifati28/BloodPressure_machine/main/images/full_set3.jpeg)
 
 ## **Project Development**
 
